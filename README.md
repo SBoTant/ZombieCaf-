@@ -1,2 +1,4 @@
-# ZombieCaf-
-Zombie cafè game
+zombiepizzeria
+==============
+
+Zombie Pizzeria Android Application
